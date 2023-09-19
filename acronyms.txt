@@ -1,0 +1,23 @@
+Common text abbreviations
+
+    ROFL: Rolling on the floor laughing
+    STFU: Shut the f*** up
+    ICYMI: In case you missed it
+    TL;DR: Too long, didn’t read
+    TMI: Too much information
+    AFAIK: As far as I know
+    LMK: Let me know
+    NVM: Nevermind
+    FTW: For the win
+    BYOB: Bring your own beer
+    BOGO: Buy one get one
+    JK: Just kidding
+    JW: Just wondering
+    TGIF: Thank goodness it’s Friday
+    TBH: To be honest
+    TBF: To be frank
+    RN: Right now
+    FUBAR: F***** up beyond all recognition
+    BRB: Be right back
+    ISO: In search of
+    BRT: Be right there
